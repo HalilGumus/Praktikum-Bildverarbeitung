@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/forall/P2v3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-7   -I/opt/libroyale-4.10.0.162-LINUX-x86-64Bit/include -isystem /usr/local/include/opencv4   -fPIC -std=c++0x -Wall -Wconversion -fPIC -std=c++0x -Wall -Wconversion -g   -std=gnu++1z -o CMakeFiles/P1.dir/main.cpp.o -c /home/forall/P2v3/main.cpp",
+  "file": "/home/forall/P2v3/main.cpp"
+}
+]
