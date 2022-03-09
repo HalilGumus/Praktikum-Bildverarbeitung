@@ -1,4 +1,0 @@
-approxPolyDP()
-convexHull()
-drawContours()
-convexityDefects()
